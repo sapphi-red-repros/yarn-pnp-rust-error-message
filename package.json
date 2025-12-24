@@ -1,4 +1,8 @@
 {
   "name": "oxc-resolver-yarn-pnp-bug",
-  "packageManager": "yarn@4.10.3"
+  "packageManager": "yarn@4.10.3",
+  "dependencies": {
+    "oxc-resolver": "^11.16.0",
+    "zustand": "^5.0.9"
+  }
 }
