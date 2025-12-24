@@ -1,0 +1,4 @@
+{
+  "name": "oxc-resolver-yarn-pnp-bug",
+  "packageManager": "yarn@4.10.3"
+}
